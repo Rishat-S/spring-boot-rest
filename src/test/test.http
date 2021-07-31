@@ -1,13 +1,13 @@
-GET http://localhost:8080/authorize?user=Bob&password=pass
+GET http://localhost:8888/authorize?user=Bob&password=pass
 
 ###
-GET http://localhost:8080/authorize?user=Bb&password=pass
+GET http://localhost:8888/authorize?user=Bb&password=pass
 
 ###
-GET http://localhost:8080/authorize?user=Bob&password=pss
+GET http://localhost:8888/authorize?user=Bob&password=pss
 
 ###
 
-GET http://localhost:8080/authorize?user=&password=
+GET http://localhost:8888/authorize?user=&password=
 
 ###
