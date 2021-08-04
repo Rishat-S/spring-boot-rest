@@ -1,4 +1,4 @@
-package ru.netology.spring_boot_rest.service;
+package ru.netology.spring_boot_rest.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
